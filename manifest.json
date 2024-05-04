@@ -1,0 +1,9 @@
+{
+    "name": "AdvancedSigns",
+    "version_number": "0.4.0",
+    "website_url": "https://github.com/cjayride/AdvancedSigns_Fork",
+    "description": "Fork of aedenthorn/AdvancedSigns for v0.217.46+ Customize sign text, font, position, and size, using rich text.",
+    "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}
